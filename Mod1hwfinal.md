@@ -30,3 +30,45 @@
  * Top 10 Financial Institutes and Insurance providers across North America.
 
 ### As they continue to provide relative solutions for their client's needs, Owl.co may be presented with an opportunity to ensure a very bright future.
+  
+<h2>References:</h2>
+
+---
+
+<h4>
+
+* [Owl.co Website](https://www.owl.co)
+
+* [techtarget.com](https://www.techtarget.com/searchcio/definition/RegTech)
+
+* [proofpoint.com](https://www.proofpoint.com/us/threat-reference/regulatory-compliance)
+
+* [investopedia.com](https://www.investopedia.com/terms/r/regtech.asp)
+
+* [eqs.com](https://www.eqs.com/compliance-blog/what-is-regtech/)
+
+* [ascentregtech.com](https://www.ascentregtech.com/what-is-regtech/)
+
+* [fintechnews.ch](https://fintechnews.ch/fintech/fintech-canada-report/19783/)
+
+* [mas.gov.sg](https://www.mas.gov.sg/development/fintech/technologies---regtech)
+
+* [chrunchbase.com](https://www.crunchbase.com/organization/owl-fdda)
+
+* [twitter](https://twitter.com/owldotco?lang=en)
+
+* [medium.com](https://medium.com/@owldotco)
+
+* [fintechlabs.com](https://fintechlabs.com/pitch/owl-co/)
+
+* [Youtube](https://www.youtube.com/watch?v=Ke5uV6YtvSw)
+
+* [financialpost.com](https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/owl-co-secures-30-million-in-funding-to-address-insurance-industrys-80-billion-fraud-problem)
+
+* [regtech.blog](https://regtech.blog/filingnews/a-birds-eye-view-of-the-regtech-market)
+
+* [medium.com](https://medium.com/@owldotco/tsx-working-with-owl-co-to-enhance-operational-efficiency-2698b5bf0f0a)
+
+* [vantechjournal.com](https://www.vantechjournal.com/p/owl-series-b)
+
+* [coverager.com](https://coverager.com/owl-co-raises-30-million/)
