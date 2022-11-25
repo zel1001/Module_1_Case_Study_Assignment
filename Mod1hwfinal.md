@@ -20,16 +20,16 @@
 
 <h1>Recommendations
  
- ### <p>To reccomend Owl.co's software and machine learning based service, they offer their clients the benefit to automatically aggregate customer data to swiftly perform background checks to detect signs of any inconsistencies and/or fraudulant behaviour at a fraction of the time and energy compared to older traditional methods.<p> What makes Owl.co services so valuable is that they can offer fianancial institution a convenient solution to quickly perform: Automated customer onboarding; Instant Know Your Customer & Anti-Money Laundering; Fraud Detection. With such benefitial technology on hand, this provides the client the resources to instantly and efficiently handle regulatory measures at a lower cost.<p>Protecting the people's safety is part of regulatory technology's purpose. As a service that provides the ability to collect and process large amounts of data in a short time span, Owl.co prides themselves on their capacity to catch fraud perpetrators and money laundering schemes through automation based on a non-biased criteria:<br> ie. Age, Race, Gender, Background. This will drastically reduce human error as the analysis will be based on eliminating human biases and collecting past evident data and compiling it into available information within a matter of minutes.
+ ### <p>To recomend Owl.co's software and machine learning based service, they offer their clients the benefit to automatically aggregate customer data to swiftly perform background checks to detect signs of any inconsistencies and/or fraudulant behaviour at a fraction of the time and energy compared to older traditional methods.<p> What makes Owl.co services so valuable is that they can offer fianancial institution a convenient solution to quickly perform: Automated customer onboarding; Instant Know Your Customer & Anti-Money Laundering; Fraud Detection. With such benefitial technology on hand, this provides the client the resources to instantly and efficiently handle regulatory measures at a lower cost.<p>Protecting the people's safety is part of regulatory technology's purpose. As a service that provides the ability to collect and process large amounts of data in a short time span, Owl.co prides themselves on their capacity to catch fraud perpetrators and money laundering schemes through automation based on a non-biased criteria:<br> ie. Age, Race, Gender, Background. This will drastically reduce human error as the analysis will be based on eliminating human biases and collecting past evident data and compiling it into available information within a matter of minutes.
 
  <h1>Conclusion
 
- ### <p> Despite being relevantly young, Owl.co has demonstrated their ability to perform as made apparent from the types of clients they service examples being.
+ ### <p> Despite being relativly young, Owl.co has demonstrated their ability to perform as made apparent from the types of clients they service examples being.
  * Toronto Stock Exchange
  * Fairstone Financial
  * Top 10 Financial Institutes and Insurance providers across North America.
 
-### As they continue to provide relative solutions for their client's needs, Owl.co may be presented with an opportunity to ensure a very bright future.
+### As they continue to provide relevant solutions for their client's needs, Owl.co may be presented with an opportunity to ensure a very bright future.
   
 <h2>References:</h2>
 
